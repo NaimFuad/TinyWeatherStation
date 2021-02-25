@@ -32,3 +32,15 @@ Display weather data from OpenWeather such as current weather, temperature , hum
 8. SPI               -   SPI connection
 9. SPIFFS            -   Serial Peripheral Interface Flash File System to store and retrieve data on ESP
 10. Adafruit_NeoPixel -   RGB Lighting
+
+## Hardware Wiring
+
+GND - GND
+VCC - 3.3V
+SCL - GPIO18
+SDA - GPIO19
+RES - GPIO04
+DC - GPIO02
+CS - GPIO15
+BLK - 3.3V
+
