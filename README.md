@@ -3,6 +3,10 @@ This is an open sourced small weather station that are able to retrieve data fro
 
 TO ADD IMAGE HERE
 
+## Features
+
+Display weather data from OpenWeather such as current weather, temperature , humidity , wind direction , air pressure , visibility , 
+
 ## Hardware
 
 1. Hibiscus Sensy ESP32 IoT Developtment Board - [Cytron](https://my.cytron.io/p-hibiscus-sense-esp32-iot-development-board?search=hibiscus&description=1) or [Myduino](https://myduino.com/product/myd-036/)
