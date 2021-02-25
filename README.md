@@ -35,12 +35,15 @@ Display weather data from OpenWeather such as current weather, temperature , hum
 
 ## Hardware Wiring
 
-GND - GND
-VCC - 3.3V
-SCL - GPIO18
-SDA - GPIO19
-RES - GPIO04
-DC - GPIO02
-CS - GPIO15
-BLK - 3.3V
+* GND - GND
+* VCC - 3.3V
+* SCL - GPIO18
+* SDA - GPIO19
+* RES - GPIO04
+* DC - GPIO02
+* CS - GPIO15
+* BLK - 3.3V
 
+## Hibiscus Sense ESP32 IoT Developtment Board  Overview
+
+![Hibiscus Sense Overview](https://github.com/NaimFuad/HibiscusSenseMicroPython/blob/main/Image/Hibiscus-Sense-V1.0-Overview.jpg)
