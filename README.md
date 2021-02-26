@@ -47,4 +47,4 @@ Display weather data from OpenWeather such as current weather, temperature , hum
 
 ## Hibiscus Sense ESP32 IoT Developtment Board  Overview
 
-![Hibiscus Sense Overview](https://github.com/NaimFuad/HibiscusSenseMicroPython/blob/main/Image/Hibiscus-Sense-V1.0-Overview.jpg)
+![Hibiscus Sense Overview](https://github.com/NaimFuad/TinyWeatherStation/blob/main/Image/Hibiscus-Sense-V1.0-Overview.jpg)
