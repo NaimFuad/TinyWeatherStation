@@ -15,7 +15,7 @@ Display weather data from OpenWeather such as current weather, temperature , hum
 1. Hibiscus Sense ESP32 IoT Developtment Board - [Cytron](https://my.cytron.io/p-hibiscus-sense-esp32-iot-development-board?search=hibiscus&description=1) or [Myduino](https://myduino.com/product/myd-036/)
 2. 1.8-inch 128x160 TFT LCD Breakout (ST7735) - [Cytron](https://my.cytron.io/p-1.44-inch-128x128-tft-lcd-breakout-st7735?search=st7735&description=1)
 3. Female-Female Jumper Wire - [Cytron](https://my.cytron.io/p-40-ways-female-to-female-jumper-wire?search=jumper%20wire&description=1)
-4. 3D Printed Enclosure - ADD LINK TO THINGIVERSE HERE
+4. 3D Printed Enclosure - [Thingiverse](https://www.thingiverse.com/thing:4779789)
 5. Type C USB Cable for programming and power supply
 
 ## Software
