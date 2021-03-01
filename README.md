@@ -3,7 +3,7 @@ This is an open sourced small weather station that are able to retrieve data fro
 
 To install, you can refer to the Wiki section of this repository and the steps are in order. [Wiki](https://github.com/NaimFuad/TinyWeatherStation/wiki)
 
-![](https://github.com/NaimFuad/TinyWeatherStation/blob/main/Image/Weather%20Station%20FULL.jpg)
+![](https://github.com/NaimFuad/TinyWeatherStation/blob/main/Image/TinyWeather%20Thumbnail.jpg)
 ![](https://github.com/NaimFuad/TinyWeatherStation/blob/main/Image/Weather%20Station%20RIGHT.png)
 
 ## Features
