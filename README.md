@@ -8,7 +8,7 @@ To install, you can refer to the Wiki section of this repository and the steps a
 
 ## Features
 
-Display weather data from OpenWeather such as current weather, temperature , humidity , wind direction , air pressure and visibility. 
+Display weather data from OpenWeather such as current weather, temperature , humidity , wind direction , air pressure and visibility. The RGB lighting will change based on current weather.
 
 ## Hardware
 
